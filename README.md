@@ -1,6 +1,6 @@
 ## Build on 
 
-![Vite Template React](https://github.com/SafdarJamal/vite-template-react/assets/48409548/4b1eb99e-01b8-4752-91c0-76930e7948c1)
+[Safdar Jamal](https://safdarjamal.github.io).
 
 ```
 npm start
